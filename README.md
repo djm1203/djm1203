@@ -38,7 +38,6 @@ $ whoami
 
 | Project | What it does |
 |---------|-------------|
-| **[The Librarian](https://github.com/djm1203/mediaStudy)** | Rust AI study companion — local vector embeddings, semantic search, zero cloud dependency |
 | **[PenTest](https://github.com/djm1203/pentest-lab)** | Modular CLI/TUI pentesting suite — orchestrates Nmap, Sqlmap, Nuclei via a dynamic module registry |
 | **[VPN-Rust](https://github.com/djm1203/vpn-rust)** | Hand-rolled secure tunnel — manual IP assignment, async I/O with Tokio, rustls |
 
