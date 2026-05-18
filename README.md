@@ -2,9 +2,9 @@
 
 ```bash
 $ whoami
-> CS senior @ Baylor University — graduating May 2026
+> Baylor CS Alumn
 > Cybersecurity concentration
-> Software Developer @ Quantum Intelligence
+> Backend Developer I @ Highway
 ```
 
 ---
