@@ -77,15 +77,6 @@ Hivestorm CCDC ··················· Windows + Linux team defen
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=djm1203&bg_color=0d1117&color=58a6ff&line=1f6feb&point=39d353&area=true&area_color=1f6feb&hide_border=true&custom_title=commit+activity)](https://github.com/djm1203)
-
-</div>
-
----
-
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
 
@@ -94,19 +85,6 @@ Hivestorm CCDC ··················· Windows + Linux team defen
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djm1203/djm1203/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/djm1203/djm1203/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<!-- STATS -->
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=djm1203&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&rank_icon=github&hide=c%2B%2B)
-&nbsp;&nbsp;
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djm1203&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Streak](https://streak-stats.demolab.com?user=djm1203&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff)
 
 </div>
 
