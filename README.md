@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/MartinHeinz/MartinHeinz/raw/master/wave.gif" width="32" alt="Waving hand animation" />
-
 # Derek Martinez
 
 *Backend developer · Baylor CS grad · always curious about how things work*
@@ -24,7 +22,7 @@ A Rust project exploring secure tunnels, async networking, and `rustls`.
 
 ---
 
-### <img src="https://github.com/MartinHeinz/MartinHeinz/raw/master/wave.gif" width="24" alt="" /> `$ languages`
+### `$ languages`
 
 <div align="center">
 
@@ -34,7 +32,7 @@ A Rust project exploring secure tunnels, async networking, and `rustls`.
 
 ---
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24" alt="" /> `$ lately`
+### `$ lately`
 
 Learning more about **Ruby on Rails** and backend systems—especially how small design choices affect maintainability.
 
